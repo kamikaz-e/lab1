@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3738f14-0b46-466a-a9ed-f9d5f14aea4c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hPCn3uAYnYAxBFP4c2Hj3qiywY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/laboratory1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\laboratory1\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.ystu.nx.Main" />
+      <module name="laboratory1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3738f14-0b46-466a-a9ed-f9d5f14aea4c" name="Default Changelist" comment="" />
+      <created>1599903503321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599903503321</updated>
+      <workItem from="1599903504510" duration="4506000" />
+      <workItem from="1599916613162" duration="194000" />
+      <workItem from="1601550793566" duration="7131000" />
+      <workItem from="1601558065753" duration="1000" />
+      <workItem from="1601582634852" duration="2583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="194" y="0" key="#Project_Structure" timestamp="1599907466135">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="194" y="0" key="#Project_Structure/62.0.1304.768@62.0.1304.768" timestamp="1599907466135" />
+    <state x="237" y="65" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601551313408">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="185" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1304.768@62.0.1304.768" timestamp="1599908894916" />
+    <state x="237" y="65" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1601551313408" />
+    <state x="713" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1601551084645">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="519" y="87" key="#com.intellij.ide.util.MemberChooser/62.0.1304.768@62.0.1304.768" timestamp="1599909960810" />
+    <state x="713" y="122" key="#com.intellij.ide.util.MemberChooser/62.0.1858.1080@62.0.1858.1080" timestamp="1601551084645" />
+    <state x="512" y="212" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601551309552">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="512" y="212" key="#com.intellij.ide.util.TreeClassChooserDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1601551309552" />
+    <state x="767" y="185" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601553246048">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="767" y="185" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1601553246048" />
+    <state x="846" y="298" key="AndroidProcessChooserDialog" timestamp="1601585943005">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="846" y="298" key="AndroidProcessChooserDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1601585943005" />
+    <state width="424" height="618" key="DebuggerActiveHint" timestamp="1601557887153">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="424" height="618" key="DebuggerActiveHint/62.0.1858.1080@62.0.1858.1080" timestamp="1601557887153" />
+    <state x="771" y="294" key="FileChooserDialogImpl" timestamp="1601553493019">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="771" y="294" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1601553493019" />
+    <state width="1375" height="192" key="GridCell.Tab.0.bottom" timestamp="1601587112081">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="946" height="185" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1599910651656" />
+    <state width="1375" height="192" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1601587112081" />
+    <state width="1375" height="192" key="GridCell.Tab.0.center" timestamp="1601587112081">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="946" height="185" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1599910651656" />
+    <state width="1375" height="192" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1601587112081" />
+    <state width="1375" height="192" key="GridCell.Tab.0.left" timestamp="1601587112081">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="946" height="185" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1599910651656" />
+    <state width="1375" height="192" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1601587112081" />
+    <state width="1375" height="192" key="GridCell.Tab.0.right" timestamp="1601587112081">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="946" height="185" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1599910651656" />
+    <state width="1375" height="192" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1601587112081" />
+    <state width="1375" height="211" key="GridCell.Tab.1.bottom" timestamp="1601585957998">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1375" height="211" key="GridCell.Tab.1.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1601585957998" />
+    <state width="1375" height="211" key="GridCell.Tab.1.center" timestamp="1601585957998">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1375" height="211" key="GridCell.Tab.1.center/62.0.1858.1080@62.0.1858.1080" timestamp="1601585957998" />
+    <state width="1375" height="211" key="GridCell.Tab.1.left" timestamp="1601585957998">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1375" height="211" key="GridCell.Tab.1.left/62.0.1858.1080@62.0.1858.1080" timestamp="1601585957998" />
+    <state width="1375" height="211" key="GridCell.Tab.1.right" timestamp="1601585957998">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1375" height="211" key="GridCell.Tab.1.right/62.0.1858.1080@62.0.1858.1080" timestamp="1601585957998" />
+    <state x="154" y="92" width="1674" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601553300824">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="154" y="92" width="1674" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1601553300824" />
+    <state x="459" y="130" key="editAsTableFormatDialogDimension" timestamp="1601553981431">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="459" y="130" key="editAsTableFormatDialogDimension/62.0.1858.1080@62.0.1858.1080" timestamp="1601553981431" />
+    <state x="698" y="257" width="585" height="566" key="find.popup" timestamp="1601557627929">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="698" y="257" width="585" height="566" key="find.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1601557627929" />
+    <state x="535" y="0" key="spring file set editor" timestamp="1601550836210">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="394" y="0" key="spring file set editor/62.0.1304.768@62.0.1304.768" timestamp="1599908749150" />
+    <state x="535" y="0" key="spring file set editor/62.0.1858.1080@62.0.1858.1080" timestamp="1601550836210" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/ystu/nx/service/QueueServiceImpl.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/ystu/nx/service/QueueServiceImpl.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/ystu/nx/service/QueueServiceImpl.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

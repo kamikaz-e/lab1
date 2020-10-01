@@ -1,0 +1,1 @@
+package ru.ystu.nx.entity;import lombok.Data;import java.util.List;@Datapublicclass Queue {	private String name;	private Integer result;	private List<Answer> answerList;	public Queue(String name, Integer result, List<Answer> answerList) {		this.name = name;		this.result = result;		this.answerList = answerList;	}}

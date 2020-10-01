@@ -1,0 +1,1 @@
+package form;interface MainForm {	void startQuiz();}
