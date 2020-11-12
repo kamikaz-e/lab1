@@ -3,17 +3,33 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:orange" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c3738f14-0b46-466a-a9ed-f9d5f14aea4c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ystu/nx/service/QueueServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ystu/nx/service/QueueServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/question_file.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/question_file.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/ystu/nx/dao/QueueDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/ystu/nx/dao/QueueDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/ystu/nx/dao/QueueDaoCsv.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/ystu/nx/dao/QueueDaoCsv.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/ystu/nx/service/QueueServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/ystu/nx/service/QueueServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/testdata.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,12 +108,40 @@
       <workItem from="1601558065753" duration="1000" />
       <workItem from="1601582634852" duration="3361000" />
       <workItem from="1601588082051" duration="210000" />
-      <workItem from="1601826993965" duration="2419000" />
+      <workItem from="1601826993965" duration="2557000" />
+      <workItem from="1601924833342" duration="1000" />
+      <workItem from="1604350939711" duration="1033000" />
+      <workItem from="1604394233476" duration="15000" />
+      <workItem from="1605209368661" duration="87000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="orange" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="194" y="0" key="#Project_Structure" timestamp="1599907466135">
@@ -130,30 +174,30 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="424" height="618" key="DebuggerActiveHint/62.0.1858.1080@62.0.1858.1080" timestamp="1601557887153" />
-    <state x="771" y="294" key="FileChooserDialogImpl" timestamp="1601553493019">
+    <state x="771" y="294" key="FileChooserDialogImpl" timestamp="1605209440364">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="771" y="294" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1601553493019" />
-    <state width="1472" height="227" key="GridCell.Tab.0.bottom" timestamp="1601828808687">
+    <state x="771" y="294" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1605209440364" />
+    <state width="1440" height="214" key="GridCell.Tab.0.bottom" timestamp="1605209456051">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="946" height="185" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1599910651656" />
-    <state width="1472" height="227" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1601828808687" />
-    <state width="1472" height="227" key="GridCell.Tab.0.center" timestamp="1601828808687">
+    <state width="1440" height="214" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1605209456051" />
+    <state width="1440" height="214" key="GridCell.Tab.0.center" timestamp="1605209456051">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="946" height="185" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1599910651656" />
-    <state width="1472" height="227" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1601828808687" />
-    <state width="1472" height="227" key="GridCell.Tab.0.left" timestamp="1601828808687">
+    <state width="1440" height="214" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1605209456051" />
+    <state width="1440" height="214" key="GridCell.Tab.0.left" timestamp="1605209456051">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="946" height="185" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1599910651656" />
-    <state width="1472" height="227" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1601828808687" />
-    <state width="1472" height="227" key="GridCell.Tab.0.right" timestamp="1601828808687">
+    <state width="1440" height="214" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1605209456051" />
+    <state width="1440" height="214" key="GridCell.Tab.0.right" timestamp="1605209456051">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="946" height="185" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1599910651656" />
-    <state width="1472" height="227" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1601828808687" />
+    <state width="1440" height="214" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1605209456051" />
     <state width="1375" height="211" key="GridCell.Tab.1.bottom" timestamp="1601588021627">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
@@ -182,6 +226,10 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="698" y="257" width="585" height="566" key="find.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1601557627929" />
+    <state x="582" y="114" key="new project wizard" timestamp="1604351147740">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="582" y="114" key="new project wizard/62.0.1858.1080@62.0.1858.1080" timestamp="1604351147740" />
     <state x="535" y="0" key="spring file set editor" timestamp="1601550836210">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
