@@ -29,6 +29,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3738f14-0b46-466a-a9ed-f9d5f14aea4c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +69,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab2" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -85,29 +86,13 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.ystu.nx.Main" />
-      <module name="laboratory1" />
+      <module name="lab1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -133,6 +118,7 @@
       <workItem from="1605344539083" duration="71000" />
       <workItem from="1605344622251" duration="79000" />
       <workItem from="1605344716530" duration="340000" />
+      <workItem from="1605347122963" duration="610000" />
     </task>
     <servers />
   </component>
@@ -168,11 +154,11 @@
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state x="194" y="0" key="#Project_Structure/62.0.1304.768@62.0.1304.768" timestamp="1599907466135" />
-    <state x="237" y="65" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601551313408">
+    <state x="237" y="65" width="1092" height="763" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605347164231">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="185" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1304.768@62.0.1304.768" timestamp="1599908894916" />
-    <state x="237" y="65" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1601551313408" />
+    <state x="237" y="65" width="1092" height="763" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1605347164231" />
     <state x="745" y="409" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1605344608591">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
@@ -182,10 +168,10 @@
     </state>
     <state x="519" y="87" key="#com.intellij.ide.util.MemberChooser/62.0.1304.768@62.0.1304.768" timestamp="1599909960810" />
     <state x="713" y="122" key="#com.intellij.ide.util.MemberChooser/62.0.1858.1080@62.0.1858.1080" timestamp="1601551084645" />
-    <state x="512" y="212" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601551309552">
+    <state x="512" y="212" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605347161994">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="512" y="212" key="#com.intellij.ide.util.TreeClassChooserDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1601551309552" />
+    <state x="512" y="212" key="#com.intellij.ide.util.TreeClassChooserDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1605347161994" />
     <state x="767" y="185" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601553246048">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
@@ -202,30 +188,30 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="240" y="89" key="DiffContextDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1605209932045" />
-    <state x="771" y="294" key="FileChooserDialogImpl" timestamp="1605344605049">
+    <state x="771" y="294" key="FileChooserDialogImpl" timestamp="1605347718357">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="771" y="294" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1605344605049" />
-    <state width="1422" height="180" key="GridCell.Tab.0.bottom" timestamp="1605213756992">
+    <state x="771" y="294" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1605347718357" />
+    <state width="1479" height="152" key="GridCell.Tab.0.bottom" timestamp="1605347181790">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="946" height="185" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1599910651656" />
-    <state width="1422" height="180" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1605213756992" />
-    <state width="1422" height="180" key="GridCell.Tab.0.center" timestamp="1605213756992">
+    <state width="1479" height="152" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1605347181790" />
+    <state width="1479" height="152" key="GridCell.Tab.0.center" timestamp="1605347181790">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="946" height="185" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1599910651656" />
-    <state width="1422" height="180" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1605213756992" />
-    <state width="1422" height="180" key="GridCell.Tab.0.left" timestamp="1605213756992">
+    <state width="1479" height="152" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1605347181790" />
+    <state width="1479" height="152" key="GridCell.Tab.0.left" timestamp="1605347181790">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="946" height="185" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1599910651656" />
-    <state width="1422" height="180" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1605213756992" />
-    <state width="1422" height="180" key="GridCell.Tab.0.right" timestamp="1605213756992">
+    <state width="1479" height="152" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1605347181790" />
+    <state width="1479" height="152" key="GridCell.Tab.0.right" timestamp="1605347181790">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="946" height="185" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1599910651656" />
-    <state width="1422" height="180" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1605213756992" />
+    <state width="1479" height="152" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1605347181790" />
     <state width="1375" height="211" key="GridCell.Tab.1.bottom" timestamp="1601588021627">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
