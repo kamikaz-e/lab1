@@ -29,31 +29,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3738f14-0b46-466a-a9ed-f9d5f14aea4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/ystu/service/QueueServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/beans.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/form/MainForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/form/MainFormImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ystu/nx/CSVScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ystu/CSVScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ystu/nx/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ystu/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ystu/nx/dao/QueueDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ystu/dao/QueueDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ystu/nx/dao/QueueDaoCsv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ystu/dao/QueueDaoCsv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ystu/nx/entity/Answer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ystu/entity/Answer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ystu/nx/entity/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ystu/entity/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ystu/nx/service/QueueService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ystu/service/QueueService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ystu/nx/service/QueueServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/form/MainForm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/form/MainFormImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/ystu/nx/CSVScanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/ystu/nx/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/ystu/nx/dao/QueueDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/ystu/nx/dao/QueueDaoCsv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/ystu/nx/entity/Answer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/ystu/nx/entity/Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/ystu/nx/service/QueueService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/ystu/nx/service/QueueServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ystu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ystu/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ystu/dao/QueueDaoCsv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ystu/dao/QueueDaoCsv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ystu/entity/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ystu/entity/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ystu/service/QueueServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ystu/service/QueueServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/ystu/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/ystu/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/ystu/entity/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/ystu/entity/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/ystu/service/QueueServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/ystu/service/QueueServiceImpl.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +76,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.1\plugins\maven\lib\maven3" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -116,7 +99,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="Push.Settings">
     <force-push-targets>
@@ -137,17 +120,6 @@
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.ystu.Main" />
       <module name="lab1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -178,7 +150,8 @@
       <workItem from="1605344622251" duration="79000" />
       <workItem from="1605344716530" duration="340000" />
       <workItem from="1605347122963" duration="1452000" />
-      <workItem from="1607153040977" duration="5502000" />
+      <workItem from="1607153040977" duration="7463000" />
+      <workItem from="1607163434994" duration="1444000" />
     </task>
     <servers />
   </component>
@@ -223,11 +196,11 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="745" y="409" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1605344608591" />
-    <state x="713" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1601551084645">
+    <state x="713" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1607162882865">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="519" y="87" key="#com.intellij.ide.util.MemberChooser/62.0.1304.768@62.0.1304.768" timestamp="1599909960810" />
-    <state x="713" y="122" key="#com.intellij.ide.util.MemberChooser/62.0.1858.1080@62.0.1858.1080" timestamp="1601551084645" />
+    <state x="713" y="122" key="#com.intellij.ide.util.MemberChooser/62.0.1858.1080@62.0.1858.1080" timestamp="1607162882865" />
     <state x="512" y="212" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605347161994">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
@@ -248,30 +221,30 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="240" y="89" key="DiffContextDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1605209932045" />
-    <state x="771" y="294" key="FileChooserDialogImpl" timestamp="1607157862903">
+    <state x="771" y="294" key="FileChooserDialogImpl" timestamp="1607163470860">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="771" y="294" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1607157862903" />
-    <state width="1514" height="255" key="GridCell.Tab.0.bottom" timestamp="1607159835041">
+    <state x="771" y="294" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1607163470860" />
+    <state width="1514" height="262" key="GridCell.Tab.0.bottom" timestamp="1607163357845">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="946" height="185" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1599910651656" />
-    <state width="1514" height="255" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1607159835041" />
-    <state width="1514" height="255" key="GridCell.Tab.0.center" timestamp="1607159835041">
+    <state width="1514" height="262" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1607163357845" />
+    <state width="1514" height="262" key="GridCell.Tab.0.center" timestamp="1607163357845">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="946" height="185" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1599910651656" />
-    <state width="1514" height="255" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1607159835041" />
-    <state width="1514" height="255" key="GridCell.Tab.0.left" timestamp="1607159835041">
+    <state width="1514" height="262" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1607163357845" />
+    <state width="1514" height="262" key="GridCell.Tab.0.left" timestamp="1607163357844">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="946" height="185" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1599910651656" />
-    <state width="1514" height="255" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1607159835041" />
-    <state width="1514" height="255" key="GridCell.Tab.0.right" timestamp="1607159835041">
+    <state width="1514" height="262" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1607163357844" />
+    <state width="1514" height="262" key="GridCell.Tab.0.right" timestamp="1607163357845">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="946" height="185" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1599910651656" />
-    <state width="1514" height="255" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1607159835041" />
+    <state width="1514" height="262" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1607163357845" />
     <state width="1375" height="211" key="GridCell.Tab.1.bottom" timestamp="1601588021627">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
@@ -292,6 +265,10 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="56" y="201" key="Maven.ArtifactSearchDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1607158458342" />
+    <state x="494" y="186" key="SettingsEditor" timestamp="1607163188202">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="494" y="186" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1607163188202" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1607158627665">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
