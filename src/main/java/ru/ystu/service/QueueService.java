@@ -1,0 +1,1 @@
+package ru.ystu.service;public interface QueueService {	void run();}
